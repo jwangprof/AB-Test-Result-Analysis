@@ -34,7 +34,7 @@ The primary purpose of A/B testing is to:
    - Comparing personalized vs. generic emails to assess which version drives higher engagement.
 
 ### 4. **Pricing and Offers**
-   - Testing different pricing structures or discounts to understand how they affect purchase behavior.
+   - Testing different pricing structures or promotion strateg to understand how they affect purchase behavior.
    - Offering limited-time promotions to a subset of users and comparing sales results to a control group.
 
 ---
